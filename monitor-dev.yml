@@ -6,4 +6,4 @@ spring:
     host: 192.168.194.139
     port: 5672
 server:
-  port: 7890
+  port: 7898
