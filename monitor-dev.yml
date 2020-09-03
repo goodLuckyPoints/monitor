@@ -3,9 +3,9 @@ spring:
     username: admin
     password: admin
     virtual-host: admin
-    host: 192.168.194.139
+    host: 192.168.194.140
     port: 5672
 server:
   port: 7898
 zk:
-  hostandport: 192.168.194.139:2181,192.168.194.139:2182,192.168.194.139:2183
+  hostandport: 192.168.194.140:2181,192.168.194.140:2182,192.168.194.140:2183
